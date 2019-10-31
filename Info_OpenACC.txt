@@ -1,0 +1,3 @@
+https://developer.nvidia.com/openacc
+https://www.openacc.org/resources
+
